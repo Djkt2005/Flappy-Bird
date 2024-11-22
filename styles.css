@@ -1,0 +1,13 @@
+body {
+    font-family: 'Pacifico';
+    display: flex;
+    justify-content: center;
+    background-color: black;
+  }
+  
+#myCanvas {
+    display: block;
+    background: url('background.png') no-repeat center center;
+    background-size: cover;
+    height: 90%;
+}
